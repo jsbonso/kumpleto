@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "prod": "angular-kumpleto-autocomplete",
+    "default": "angular-kumpleto-autocomplete"
+  }
+}
